@@ -79,8 +79,6 @@
 <br />
 <br />
 
-
-
 <hr>
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
