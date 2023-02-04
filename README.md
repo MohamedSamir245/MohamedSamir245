@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://www.hackerrank.com/mohamedsamir2451" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="30" /></a>
   <a href="https://codeforces.com/profile/M_SAM245" target="blank"><img align="center" src="https://th.bing.com/th/id/R.91bc6ee31551328ec854fa0760124d2f?rik=1KzOLYPHD0TNnQ&riu=http%3a%2f%2fonlinejudgeimages.s3-ap-northeast-1.amazonaws.com%2fachievement%2fcodeforces.png&ehk=AwmGqTCicBPvGb7a9dWpm90EXuii2pFoIKWVOZPOV3Q%3d&risl=&pid=ImgRaw&r=0" alt="hack_ovindu" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="lin_ovindu" height="30" width="30" /></a>  
+<a href="https://www.linkedin.com/in/mohamed-samir-1a4387252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="lin_ovindu" height="30" width="30" /></a>  
 <a href="https://www.kaggle.com/msamir245" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="30" /></a>
 <a href="https://www.facebook.com/mohamed.samir.2002" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="30" /></a>
  <a href = "mailto: mohamedsamir2452002@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="30" /></a>
